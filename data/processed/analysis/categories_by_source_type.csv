@@ -1,0 +1,33 @@
+source_type,category,count
+Consulting,Core Concepts,948
+Consulting,Implementation,489
+Consulting,Business Value,168
+Consulting,Workforce,277
+Consulting,Technology,160
+Consulting,Governance,136
+Consulting,Operations,434
+Consulting,Assistance,118
+Industry,Core Concepts,1258
+Industry,Implementation,672
+Industry,Business Value,89
+Industry,Workforce,183
+Industry,Technology,72
+Industry,Governance,154
+Industry,Operations,451
+Industry,Assistance,81
+Academic,Core Concepts,1108
+Academic,Implementation,1592
+Academic,Business Value,150
+Academic,Workforce,731
+Academic,Technology,455
+Academic,Governance,451
+Academic,Operations,424
+Academic,Assistance,154
+Policy,Core Concepts,1515
+Policy,Implementation,1636
+Policy,Business Value,292
+Policy,Workforce,2269
+Policy,Technology,1010
+Policy,Governance,767
+Policy,Operations,714
+Policy,Assistance,335
