@@ -56,7 +56,7 @@ class PDFTextExtractor:
                 for page in pdf_reader.pages:
                     text += page.extract_text() + "\n"
         except Exception as e:
-            print(f"⚠️ Error PyPDF2 for {pdf_path.name}: {e}")
+            print(f"WARNING: Error PyPDF2 for {pdf_path.name}: {e}")
         return text
     
     def extract_with_pdfplumber(self, pdf_path: Path) -> str:
@@ -77,7 +77,7 @@ class PDFTextExtractor:
                     if page_text:
                         text += page_text + "\n"
         except Exception as e:
-            print(f"⚠️ Error pdfplumber for {pdf_path.name}: {e}")
+            print(f"WARNING: Error pdfplumber for {pdf_path.name}: {e}")
         return text
     
     def extract_text(self, pdf_path: Path, method: str = "pdfplumber") -> str:
@@ -158,7 +158,7 @@ class PDFTextExtractor:
                     metadata["subject"] = pdf_meta.get('/Subject', '')
                     metadata["creator"] = pdf_meta.get('/Creator', '')
         except Exception as e:
-            print(f"  ⚠️ Impossible to extract PDF metadata: {e}")
+            print(f"WARNING: Impossible to extract PDF metadata: {e}")
             metadata["page_count"] = 0
         
         # Detect source type from filename
@@ -186,7 +186,7 @@ class PDFTextExtractor:
         pdf_files = list(self.raw_path.glob("*.pdf"))
         
         if not pdf_files:
-            print(f"❌ No PDF files found in {self.raw_path}")
+            print(f"ERROR: No PDF files found in {self.raw_path}")
             return {}, {}
         
         print(f"📚 {len(pdf_files)} PDF files found\n")
@@ -201,7 +201,7 @@ class PDFTextExtractor:
             text = self.extract_text(pdf_path)
             
             if not text.strip():
-                print(f"  ⚠️ WARNING: No text extracted!\n")
+                print(f"WARNING: No text extracted!\n")
                 continue
             
             # Create unique ID (filename without extension)
@@ -214,8 +214,8 @@ class PDFTextExtractor:
             texts[doc_id] = text
             metadata_dict[doc_id] = metadata
             
-            print(f"  ✅ {metadata['word_count']:,} words extracted")
-            print(f"  📄 {metadata['page_count']} pages | Type: {metadata['source_type']}\n")
+            print(f"  ✔ {metadata['word_count']:,} words extracted")
+            print(f"  ✔ {metadata['page_count']} pages | Type: {metadata['source_type']}\n")
         
         return texts, metadata_dict
     
@@ -269,21 +269,21 @@ class PDFTextExtractor:
 PDF EXTRACTION REPORT
 {'='*70}
 
-📊 STATISTIQUES GÉNÉRALES
+GEN STATS
 {'─'*70}
 Number of documents processed : {total_docs}
 Total words                   : {total_words:,}
 Total pages                   : {total_pages}
 Average words/document        : {total_words//total_docs if total_docs > 0 else 0:,}
 
-📚 SOURCE TYPE DISTRIBUTION
+SOURCE TYPE DISTRIBUTION
 {'─'*70}
 """
         for stype, count in sorted(source_types.items()):
             report += f"{stype:20} : {count} document(s)\n"
         
         report += f"\n{'─'*70}\n"
-        report += "📄 DOCUMENT DETAILS\n"
+        report += "✔ DOCUMENT DETAILS\n"
         report += f"{'─'*70}\n\n"
         
         for doc_id, meta in metadata_dict.items():
@@ -299,7 +299,7 @@ Average words/document        : {total_words//total_docs if total_docs > 0 else 
 
 def main():
     """Main function for standalone execution."""
-    print("\n🚀 PDF INGESTION START\n")
+    print("\nBEGINNING PDF INGESTION\n")
     
     # Initialize the extractor
     extractor = PDFTextExtractor()
@@ -308,7 +308,7 @@ def main():
     texts, metadata = extractor.process_all_pdfs()
     
     if not texts:
-        print("❌ No text extracted. Check your PDF files.")
+        print("ERROR: No text extracted. Check your PDF files.")
         return
     
     # Save results
@@ -324,7 +324,7 @@ def main():
     report_path = extractor.processed_path / "extraction_report.txt"
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
-    print(f"📄 Report saved to: {report_path}\n")
+    print(f"✔ Report saved to: {report_path}\n")
 
 
 if __name__ == "__main__":
