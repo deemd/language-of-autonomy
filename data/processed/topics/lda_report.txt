@@ -1,0 +1,67 @@
+
+======================================================================
+TOPIC MODELING (LDA) REPORT
+======================================================================
+
+MODEL PARAMETERS
+──────────────────────────────────────────────────────────────────────
+Number of topics    : 7
+Coherence score     : 0.3691
+Perplexity          : -7.4751
+Number of documents : 20
+
+IDENTIFIED TOPICS
+──────────────────────────────────────────────────────────────────────
+
+Topic 0: Productivity & ROI
+  Key words: evaluation, foundation, organization, survey, assessment, autonomy, world, authority, security, operational
+  Global proportion: 14.9%
+
+Topic 1: Workforce Transformation
+  Key words: organization, workflow, financial, partner, pool, sale, market, demand, leader, employee
+  Global proportion: 29.0%
+
+Topic 2: Governance & Compliance
+  Key words: oecd, definition, objective, input, output, artificial, machine, explanatory, initiative, entrepreneurship
+  Global proportion: 9.2%
+
+Topic 3: Technical Architecture & Infrastructure
+  Key words: software, workflow, tech, leader, saas, market, arxiv, robot, move, growth
+  Global proportion: 20.6%
+
+Topic 4: Autonomous Work Orchestration
+  Key words: deployer, practice, developer, llm, building, harm, practical, party, workflow, guide
+  Global proportion: 16.5%
+
+Topic 5: AI Models & Algorithms
+  Key words: workflow, market, sale, software, partner, sector, monitor, shape, tech, operational
+  Global proportion: 0.0%
+
+Topic 6: Business Strategy & Implementation
+  Key words: organization, imperative, era, organisation, product, paradigm, employee, skill, ideal, operating
+  Global proportion: 9.7%
+
+──────────────────────────────────────────────────────────────────────
+DISTRIBUTION PER SOURCE TYPE
+──────────────────────────────────────────────────────────────────────
+
+Academic:
+  • Productivity & ROI                       : 45.1%
+  • Workforce Transformation                 : 52.6%
+
+Consulting:
+  • Workforce Transformation                 : 28.7%
+  • Technical Architecture & Infrastructure  : 38.6%
+  • Business Strategy & Implementation       : 27.8%
+
+Industry:
+  • Workforce Transformation                 : 31.7%
+  • Technical Architecture & Infrastructure  : 28.2%
+  • Autonomous Work Orchestration            : 40.0%
+
+Policy:
+  • Productivity & ROI                       : 29.5%
+  • Governance & Compliance                  : 45.4%
+  • Autonomous Work Orchestration            : 22.5%
+
+======================================================================

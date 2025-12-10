@@ -75,9 +75,7 @@ agent
 exist
 year
 natural
--
 language
--
 processing
 capability
 today
@@ -85,7 +83,6 @@ gen
 model
 unleash
 host
-new
 possibility
 enable
 system
@@ -109,9 +106,6 @@ process
 help
 employee
 day
--
-to
--
 day
 work
 efficient
@@ -124,13 +118,11 @@ mckinsey
 senior
 partner
 lari
-hämäläinen
+inen
 today
 joint
 human
--
 plus
--
 machine
 outcome
 generate
@@ -140,9 +132,8 @@ great
 productivity
 recent
 development
-short-
+short
 long
--
 term
 memory
 structure
@@ -201,7 +192,6 @@ agent
 make
 shift
 knowledge
--
 base
 tool
 one
@@ -295,8 +285,6 @@ task
 small
 workflow
 serve
-ai
--
 power
 process
 orchestrator
@@ -335,7 +323,6 @@ domain
 solution
 agent
 purpose
--
 build
 solution
 specific
@@ -344,14 +331,10 @@ domain
 function
 example
 include
-ai
--
 drive
 customer
 service
 system
-ai
--
 enable
 software
 development
@@ -372,8 +355,6 @@ onto
 exist
 role
 workflow
-ai
--
 native
 enterprise
 operating
@@ -391,15 +372,9 @@ workflow
 function
 case
 company
-undergo
+undergoe
 end
--
-to
--
 end
-ai
--
-first
 redesign
 interaction
 layer
@@ -455,7 +430,6 @@ quickly
 agent
 mutually
 exclusive
-many
 organization
 pursue
 mix
@@ -477,7 +451,6 @@ highly
 complex
 ambiguous
 case
-across
 industry
 business
 function
@@ -496,7 +469,6 @@ give
 agent
 flexibility
 operate
-across
 technology
 architecture
 inside
@@ -600,7 +572,6 @@ include
 range
 control
 constructive
--
 feedback
 loop
 example
@@ -673,15 +644,12 @@ work
 llm
 equip
 natural
--
 language
--
-process
+processing
 capability
 take
 example
 self
--
 drive
 car
 run
@@ -776,10 +744,6 @@ include
 everything
 switch
 easy
--
-to
--
-use
 programming
 language
 transition
@@ -795,8 +759,7 @@ application
 run
 cheap
 cloud
--
-compute
+computing
 environment
 tech
 leader
@@ -838,9 +801,7 @@ bot
 instance
 become
 rigueur
-many
 customer
--
 face
 website
 accord
@@ -885,8 +846,7 @@ satisfaction
 generate
 revenue
 critical
-sell
-new
+selling
 service
 agent
 address
@@ -901,7 +861,6 @@ option
 company
 offer
 high
--
 touch
 interaction
 human
@@ -926,7 +885,6 @@ less
 predictable
 situation
 rule
--
 base
 system
 tend
@@ -1017,7 +975,6 @@ allow
 agent
 tool
 communicate
-across
 broad
 digital
 ecosystem
@@ -1043,7 +1000,6 @@ work
 rework
 require
 integrate
-across
 system
 accord
 mckinsey
@@ -1118,7 +1074,6 @@ service
 side
 see
 double
--
 digit
 productivity
 gain
@@ -1172,7 +1127,6 @@ scenario
 past
 typically
 time
--
 consume
 highly
 collaborative
@@ -1238,21 +1192,18 @@ adherence
 organizational
 standard
 online
--
 marketing
 campaign
 design
 launch
 run
 online
--
 marketing
 campaign
 complex
 multilayere
 process
 involve
-many
 different
 people
 single
@@ -1269,7 +1220,6 @@ company
 marketing
 professional
 digital
--
 marketing
 agent
 gather
@@ -1305,7 +1255,6 @@ von
 bismarck
 find
 customer
-across
 age
 group
 even
@@ -1351,7 +1300,6 @@ customer
 employee
 stakeholder
 people
-must
 trust
 enough
 hand
@@ -1359,7 +1307,6 @@ task
 company
 ethical
 decision
-must
 root
 value
 unique
@@ -1387,7 +1334,6 @@ much
 broad
 simply
 roll
-new
 set
 tool
 say
@@ -1405,7 +1351,6 @@ part
 rewire
 include
 adoption
-new
 technology
 tweak
 exist
@@ -1426,7 +1371,6 @@ small
 team
 work
 iteratively
-new
 service
 leader
 create
@@ -1435,7 +1379,6 @@ help
 worker
 learn
 trust
-new
 tool
 finally
 data
@@ -1461,7 +1404,6 @@ control
 security
 operation
 datum
-many
 evolve
 approach
 solution
@@ -1489,10 +1431,8 @@ shift
 away
 traditional
 application
--
 focus
 pattern
-new
 multiagent
 model
 type
@@ -1523,8 +1463,6 @@ super
 platform
 next
 generation
-third
--
 party
 business
 application
@@ -1537,8 +1475,6 @@ crm
 program
 include
 build
--
-in
 gen
 agent
 user
@@ -1556,10 +1492,7 @@ analytic
 tool
 past
 require
-use
--
 case
--
 specific
 programming
 wrapper
@@ -1569,8 +1502,6 @@ enterprise
 service
 communicate
 collaborate
-third
--
 party
 service
 via
@@ -1588,9 +1519,7 @@ enable
 wrapper
 around
 internally
-developed
-ai
--
+develop
 drive
 credit
 risk
@@ -1624,8 +1553,7 @@ gen
 enable
 agent
 fine
--
-tune
+tuning
 agent
 pretraine
 llm
@@ -1635,8 +1563,7 @@ proprietary
 datum
 use
 retrieval
--
-augment
+augmented
 generation
 rag
 example
@@ -1670,9 +1597,7 @@ adjust
 architecture
 well
 serve
-new
 agent
--
 focus
 workflow
 allow
@@ -1699,7 +1624,6 @@ proposal
 long
 timeline
 require
-many
 people
 mean
 review
@@ -1729,13 +1653,11 @@ focus
 big
 problem
 small
--
 scale
 initiative
 generally
 lead
 small
--
 scale
 outcome
 company
@@ -1759,7 +1681,6 @@ ahead
 talent
 technology
 operating
--
 model
 implication
 multiagent
@@ -1788,7 +1709,6 @@ expenditure
 evolution
 agent
 begin
-many
 learning
 discovery
 still
@@ -1803,14 +1723,12 @@ full
 scale
 agent
 offer
-new
 capability
 help
 reimagine
 way
 people
 work
-across
 organization
 industry
 size
@@ -1886,9 +1804,7 @@ megha
 sinha
 chart
 path
-data-
-ai
--
+datum
 drive
 enterprise
 september
@@ -1921,7 +1837,7 @@ enterprise
 jorge
 amar
 lari
-hämäläinen
+inen
 nicolai
 von
 bismarck
@@ -1967,7 +1883,7 @@ office
 asin
 tavakoli
 partner
-düsseldorf
+sseldorf
 office
 holger
 harreis
@@ -1981,7 +1897,6 @@ office
 james
 kaplan
 partner
-new
 york
 office
 kayvaun
@@ -2009,7 +1924,7 @@ roger
 roberts
 partner
 lari
-hämäläinen
+inen
 senior
 partner
 seattle

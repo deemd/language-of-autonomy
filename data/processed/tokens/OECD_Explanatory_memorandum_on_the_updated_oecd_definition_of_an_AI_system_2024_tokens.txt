@@ -162,12 +162,11 @@ explanatory
 memorandum
 chair
 marco
--
 alexander
 breit
 germany
 juraj
-čorba
+orba
 slovakia
 benefit
 greatly
@@ -178,7 +177,6 @@ expert
 researcher
 lab
 slovenia
-jožef
 stefan
 institute
 jsi
@@ -199,7 +197,6 @@ work
 party
 governance
 among
-many
 draft
 team
 wish
@@ -224,7 +221,7 @@ robert
 kroplewski
 katinka
 clausdatter
-worsøe
+wor
 zumrut
 muftuoglo
 arturo
@@ -329,7 +326,6 @@ recommendation
 require
 council
 five
--
 year
 mark
 adoption
@@ -408,12 +404,11 @@ norvig
 read
 system
 machine
--
 base
 system
 give
 set
-human-
+human
 define
 objective
 prediction
@@ -436,13 +431,11 @@ update
 definition
 system
 machine
--
 base
 system
 give
 set
 human
--
 define
 explicit
 implicit
@@ -477,7 +470,6 @@ read
 follow
 system
 machine
--
 base
 system
 explicit
@@ -567,7 +559,6 @@ explanatory
 memorandum
 system
 machine
--
 base
 system
 explicit
@@ -609,7 +600,6 @@ technique
 machine
 learn
 knowledge
--
 base
 approach
 application
@@ -688,7 +678,6 @@ system
 develop
 implicit
 sub
--
 objective
 sometimes
 set
@@ -699,9 +688,6 @@ agency
 autonomy
 oversight
 vis
--
-à
--
 vis
 system
 critical
@@ -727,10 +713,8 @@ rest
 human
 way
 pre
--
 determine
 pre
--
 empt
 regulatory
 choice
@@ -838,7 +822,6 @@ system
 develop
 ability
 perform
-new
 form
 inference
 initially
@@ -861,11 +844,9 @@ system
 build
 phase
 pre
--
 deployment
 phase
 post
--
 deployment
 source
 oecd
@@ -876,7 +857,6 @@ relationship
 development
 deployment
 phase
-many
 case
 design
 training
@@ -888,7 +868,6 @@ example
 deployer
 system
 fine
--
 tune
 continuously
 train
@@ -944,7 +923,7 @@ objective
 system
 objective
 explicit
-implicit1
+implicit
 example
 belong
 follow
@@ -953,7 +932,6 @@ overlap
 system
 explicit
 human
--
 define
 developer
 encode
@@ -970,15 +948,13 @@ include
 simple
 classifier
 game
--
-play
+playing
 system
 reinforcement
 learning
 system
 combinatorial
 problem
--
 solve
 system
 plan
@@ -989,7 +965,6 @@ algorithm
 implicit
 typically
 human
--
 specify
 rule
 rule
@@ -1021,8 +996,7 @@ even
 though
 typically
 human
--
-specify
+specified
 implicit
 training
 datum
@@ -1124,7 +1098,6 @@ create
 system
 often
 high
--
 level
 objective
 degree
@@ -1205,11 +1178,10 @@ model
 develop
 manually
 automatically
-reason
+reasoning
 decision
--
 make
-algorithms
+algorithm
 base
 machine
 human
@@ -1251,7 +1223,6 @@ know
 training
 symbolic
 knowledge
--
 base
 system
 typically
@@ -1259,10 +1230,8 @@ logical
 probabilistic
 representation
 human
--
 generate
 machine
--
 generate
 infer
 output
@@ -1301,7 +1270,6 @@ logical
 representation
 datum
 decision
--
 tree
 learning
 learn
@@ -1359,20 +1327,14 @@ improve
 performance
 interact
 directly
-new
 input
-datum
+data
 system
 periodically
 update
-retrained
-re
--
-tested
-re
--
+retrain
+test
 deploy
-new
 version
 model
 define
@@ -1398,7 +1360,6 @@ model
 various
 kind
 input
--
 output
 function
 decision
@@ -1440,8 +1401,8 @@ use
 machine
 learning
 method
-logic-
-knowledge-
+logic
+knowledge
 base
 approach
 generally
@@ -1543,7 +1504,6 @@ least
 autonomous
 example
 driver
--
 assist
 system
 might
@@ -1639,7 +1599,7 @@ point
 detect
 pattern
 outlier
-anomalie
+anomalies
 forecast
 use
 past
@@ -1675,7 +1635,6 @@ voice
 text
 image
 goal
--
 drive
 optimisation
 find
@@ -1690,7 +1649,6 @@ reasoning
 knowledge
 structure
 infer
-new
 outcome
 possible
 even
@@ -1717,7 +1675,6 @@ set
 technology
 technique
 applicable
-many
 different
 situation
 specific
@@ -1837,7 +1794,6 @@ artificial
 intelligence
 modern
 approach
-3rd
 edition
 pearson
 london
@@ -1863,7 +1819,6 @@ respect
 traffic
 rule
 high
--
 level
 abstract
 technical
@@ -1875,7 +1830,6 @@ red
 light
 serve
 high
--
 level
 objective
 technical
@@ -1918,7 +1872,6 @@ human
 ultimate
 objective
 trade
--
 off
 expert
 point
@@ -1942,10 +1895,8 @@ word
 model
 phrase
 model
--
 free
 model
--
 free
 reinforcement
 learning
@@ -1962,8 +1913,6 @@ policy
 mapping
 input
 action
-q
--
 function
 mapping
 input
@@ -1974,14 +1923,11 @@ choose
 action
 case
 policy
-q
--
 function
 model
 general
 sense
 input
--
 output
 function
 accord

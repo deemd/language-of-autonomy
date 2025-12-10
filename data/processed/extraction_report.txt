@@ -5,17 +5,17 @@ PDF EXTRACTION REPORT
 
 📊 STATISTIQUES GÉNÉRALES
 ──────────────────────────────────────────────────────────────────────
-Number of documents processed : 21
-Total words                   : 475,148
-Total pages                   : 1234
-Average words/document        : 22,626
+Number of documents processed : 20
+Total words                   : 136,472
+Total pages                   : 459
+Average words/document        : 6,823
 
 📚 SOURCE TYPE DISTRIBUTION
 ──────────────────────────────────────────────────────────────────────
 Academic             : 4 document(s)
 Consulting           : 7 document(s)
 Industry             : 5 document(s)
-Policy               : 5 document(s)
+Policy               : 4 document(s)
 
 ──────────────────────────────────────────────────────────────────────
 📄 DOCUMENT DETAILS
@@ -75,11 +75,8 @@ Policy               : 5 document(s)
 • PwC_Agentic_AI_the_new_frontier_in_GenAI_2024.pdf
   Words: 6,770 | Pages: 22 | Type: Consulting
 
-• Standford_ai_index_report_2025.pdf
-  Words: 123,658 | Pages: 457 | Type: Academic
-
-• UNDP_People_and_possibilities_in_the_age_of_AI_2025.pdf
-  Words: 217,338 | Pages: 324 | Type: Policy
+• Standford_Policy_brief_Simulating_human_behavior_with_AI_Agents_2025.pdf
+  Words: 2,320 | Pages: 6 | Type: Academic
 
 • WEF_AI_Agents_in_Action_Foundations_for_Evaluation_and_Governance_2025.pdf
   Words: 11,304 | Pages: 34 | Type: Policy

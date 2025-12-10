@@ -20,7 +20,7 @@ time
 article
 collaborative
 effort
-sören
+ren
 jautelat
 jens
 niemann
@@ -31,7 +31,7 @@ wollner
 peter
 cholewinski
 sarah
-kühne
+hne
 vincent
 steinweg
 representing
@@ -60,7 +60,6 @@ multistep
 challenge
 act
 independently
-across
 digital
 system
 agent
@@ -74,14 +73,12 @@ solve
 gen
 paradox
 fact
-many
 company
 adopt
 gen
 achieve
 significant
 bottom
--
 line
 impact
 exhibit
@@ -117,7 +114,6 @@ productivity
 accelerate
 innovation
 create
-new
 pathway
 growth
 course
@@ -132,7 +128,6 @@ bold
 strategic
 intent
 cross
--
 functional
 integration
 deliberate
@@ -157,7 +152,6 @@ age
 autonomous
 agent
 unlock
-new
 opportunity
 growth
 innovation
@@ -183,7 +177,6 @@ player
 begin
 use
 agentic
-many
 see
 tangible
 quantifiable
@@ -192,13 +185,11 @@ manufacturer
 report
 improve
 defect
--
 detection
 rate
 thanks
 automate
 visual
--
 anomaly
 detection
 system
@@ -245,7 +236,6 @@ significant
 financial
 operational
 benefit
-across
 industry
 accord
 mckinsey
@@ -451,7 +441,6 @@ line
 agentic
 productivity
 tool
-new
 revenue
 engine
 strategic
@@ -475,17 +464,12 @@ enable
 company
 reengineer
 end
--
-to
--
 end
 process
 support
-new
 business
 model
 outcome
--
 base
 contract
 performance
@@ -523,8 +507,6 @@ system
 example
 illustrate
 form
-first
--
 generation
 deployment
 take
@@ -541,8 +523,6 @@ development
 problem
 lead
 tier
--
-one
 automotive
 supplier
 routinely
@@ -550,10 +530,8 @@ manage
 hundred
 complex
 hardware
--
 near
 requirement
-across
 multiple
 concurrent
 project
@@ -590,7 +568,6 @@ intensive
 engineer
 carefully
 review
-new
 requirement
 identify
 assess
@@ -607,7 +584,6 @@ meticulously
 compile
 comprehensive
 coherent
-new
 test
 description
 process
@@ -643,7 +619,6 @@ workflow
 series
 discrete
 agent
--
 friendly
 process
 step
@@ -655,7 +630,6 @@ model
 alongside
 langgraph
 open
--
 source
 agentic
 framework
@@ -761,10 +735,6 @@ superior
 integration
 efficiency
 compare
-off
--
-the
--
 shelf
 market
 alternative
@@ -833,7 +803,6 @@ substantial
 operational
 efficiency
 improvement
-new
 paradigm
 engineering
 productivity
@@ -903,7 +872,6 @@ prospective
 company
 actively
 market
-new
 truck
 act
 autonomously
@@ -929,7 +897,6 @@ data
 source
 include
 government
--
 issue
 licensing
 application
@@ -956,9 +923,6 @@ stability
 market
 attractiveness
 fit
--
-with
--
 product
 offering
 generate
@@ -970,7 +934,6 @@ curate
 sale
 argument
 company
--
 specific
 detail
 direct
@@ -1054,7 +1017,6 @@ lead
 translate
 effectively
 real
--
 world
 sale
 action
@@ -1109,7 +1071,6 @@ transformative
 potential
 gen
 organization
-must
 shift
 scatter
 tactical
@@ -1125,12 +1086,10 @@ organization
 move
 experimentation
 enterprise
--
 wide
 transformation
 require
 innovation
-across
 foundational
 category
 process
@@ -1139,9 +1098,6 @@ datum
 process
 reimagine
 end
--
-to
--
 end
 workflow
 agentic
@@ -1169,7 +1125,6 @@ core
 workflow
 mapping
 workflow
-across
 strategy
 execution
 operation
@@ -1182,7 +1137,6 @@ logic
 human
 system
 interface
-must
 capture
 translate
 format
@@ -1198,7 +1152,6 @@ enable
 adaptive
 automate
 outcome
--
 orient
 operation
 ensure
@@ -1229,9 +1182,7 @@ bottom
 line
 embed
 business
--
 case
--
 drive
 approach
 workflow
@@ -1309,14 +1260,8 @@ appropriate
 governance
 collaborative
 agent
--
-to
--
 agent
 human
--
-to
--
 agent
 interaction
 model
@@ -1333,7 +1278,6 @@ develop
 scalable
 mesh
 ecosystem
-new
 technical
 infrastructure
 agentic
@@ -1356,10 +1300,6 @@ mesh
 bring
 together
 proprietary
-off
--
-the
--
 shelf
 agent
 within
@@ -1374,10 +1314,6 @@ task
 access
 enterprise
 commercial
-off
--
-the
--
 shelf
 system
 mesh
@@ -1403,9 +1339,8 @@ agent
 coordinate
 divide
 task
-across
 network
-layer
+layered
 decouple
 logic
 memory
@@ -1418,8 +1353,6 @@ vendor
 neutrality
 avoid
 lock
--
-in
 enable
 independent
 technical
@@ -1433,9 +1366,7 @@ enterprise
 datum
 organization
 shift
-use-
 case
--
 specific
 pipeline
 reusable
@@ -1473,9 +1404,6 @@ control
 agentic
 treat
 plug
--
-and
--
 play
 solution
 success
@@ -1483,7 +1411,6 @@ depends
 clearly
 scope
 high
--
 value
 case
 robust
@@ -1506,11 +1433,6 @@ deployment
 emphasize
 importance
 human
--
-on
--
-the
--
 loop
 governance
 oversight
@@ -1530,7 +1452,6 @@ european
 union
 act
 sector
--
 specific
 standard
 example
@@ -1545,7 +1466,6 @@ organization
 need
 move
 fast
-must
 move
 responsibly
 balance
@@ -1572,7 +1492,6 @@ autonomous
 capable
 learning
 collaborate
-across
 system
 domain
 organization
@@ -1581,8 +1500,6 @@ potential
 early
 stand
 capture
-first
--
 mover
 advantage
 efficiency
@@ -1603,8 +1520,6 @@ foundation
 willingness
 redesign
 end
--
-to-
 end
 value
 chain
@@ -1631,7 +1546,7 @@ domain
 reinvention
 automation
 autonomy
-sören
+ren
 jautelat
 senior
 partner
@@ -1649,7 +1564,7 @@ barg
 senior
 associate
 andsarah
-kühne
+hne
 consultant
 patrick
 wollner
@@ -1672,7 +1587,6 @@ larry
 kanter
 senior
 editor
-new
 york
 office
 copyright

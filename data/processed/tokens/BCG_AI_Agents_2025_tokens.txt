@@ -28,14 +28,9 @@ act
 autonomously
 agent
 open
-new
 end
--
-to
--
 end
 transformation
-across
 industry
 streamline
 process
@@ -59,7 +54,6 @@ goal
 agent
 ability
 remember
-across
 task
 change
 state
@@ -204,14 +198,11 @@ sensor
 datum
 retain
 memory
-across
 conversation
 provide
 ongoing
 context
-across
 multi
--
 step
 plan
 operation
@@ -279,19 +270,15 @@ error
 fix
 learn
 multi
--
 step
 plan
 internal
 check
 observe
--
 plan
--
 act
 cycle
 self
--
 reinforce
 agent
 tool
@@ -315,7 +302,6 @@ tend
 five
 component
 agent
--
 centric
 interface
 include
@@ -338,7 +324,6 @@ memory
 module
 include
 short
--
 term
 memory
 recent
@@ -346,7 +331,6 @@ event
 immediate
 context
 long
--
 term
 memory
 factual
@@ -400,7 +384,6 @@ agent
 agent
 agent
 represent
-new
 era
 artificial
 intelligence
@@ -417,7 +400,6 @@ agent
 act
 autonomous
 decision
--
 make
 entity
 analyze
@@ -500,7 +482,6 @@ workflow
 tool
 capable
 high
--
 perform
 teammate
 bring
@@ -647,8 +628,6 @@ component
 part
 need
 small
-well
--
 define
 task
 need
@@ -688,7 +667,6 @@ enable
 employee
 focus
 high
--
 value
 work
 collaboration
@@ -706,7 +684,6 @@ actionable
 insight
 support
 decision
--
 make
 execute
 task
@@ -717,7 +694,6 @@ uncover
 data
 insight
 data
--
 rich
 environment
 agent
@@ -743,7 +719,6 @@ agent
 fast
 become
 common
-across
 industry
 early
 adopter
@@ -786,9 +761,7 @@ reduce
 cost
 improve
 speed
-50x
-publish
-new
+publishing
 blog
 post
 single
@@ -808,7 +781,6 @@ interface
 customer
 reduce
 cost
-10x
 research
 development
 biopharma
@@ -842,7 +814,6 @@ agent
 gain
 traction
 quickly
-across
 array
 business
 application
@@ -900,7 +871,6 @@ team
 human
 work
 alongside
-many
 type
 agent
 result
@@ -919,7 +889,6 @@ building
 agent
 company
 unlock
-new
 business
 model
 accelerate
@@ -935,9 +904,8 @@ creative
 similarly
 agent
 speed
-labor-
+labor
 time
--
 intensive
 process
 enable

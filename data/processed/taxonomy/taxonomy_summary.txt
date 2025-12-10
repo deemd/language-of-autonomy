@@ -1,0 +1,36 @@
+
+MINI-TAXONOMY OF AGENTIC AI DEFINITIONS
+======================================================================
+
+METHODOLOGY
+----------------------------------------------------------------------
+• Semi-automatic extraction: 750 candidate definitions
+• Manual validation: 750 definitions
+• Categorization: 4 main conceptual categories
+
+RESULTS
+----------------------------------------------------------------------
+
+AI as Copilots/Assistants: 79 definitions (10.5%)
+  AI agents that augment human work, provide suggestions, collaborate with users
+
+AI as Autonomous Workers: 92 definitions (12.3%)
+  AI agents that independently execute tasks with minimal human intervention
+
+AI as Multi-Agent Ecosystems/Orchestrators: 65 definitions (8.7%)
+  AI systems coordinating multiple agents, workflows, or complex processes
+
+AI as Governance/Risk Challenges: 97 definitions (12.9%)
+  AI agents framed through ethical, regulatory, or risk management lens
+
+----------------------------------------------------------------------
+KEY INSIGHTS
+----------------------------------------------------------------------
+
+• Dominant category: Other/Uncategorized (55.6%)
+
+• Differences per source type:
+  - Industry: favors 'Other/Uncategorized'
+  - Consulting: favors 'Other/Uncategorized'
+  - Policy: favors 'Other/Uncategorized'
+  - Academic: favors 'Other/Uncategorized'

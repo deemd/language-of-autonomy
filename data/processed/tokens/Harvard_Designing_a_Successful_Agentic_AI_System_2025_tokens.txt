@@ -17,12 +17,10 @@ execute
 workflow
 decision
 coordinate
-across
 department
 realize
 promise
 company
-must
 design
 workflow
 around
@@ -54,13 +52,10 @@ require
 company
 often
 respond
-new
 technology
 process
 tweak
 bolt
--
-on
 tool
 company
 adapt
@@ -78,7 +73,6 @@ high
 stake
 demand
 cross
--
 functional
 execution
 break
@@ -99,7 +93,6 @@ unlock
 value
 agentic
 company
-must
 redesign
 think
 workforce
@@ -118,8 +111,6 @@ increase
 likelihood
 deliver
 seek
--
-after
 value
 agentic
 work
@@ -135,7 +126,6 @@ execute
 workflow
 decision
 coordinate
-across
 department
 think
 agentic
@@ -160,7 +150,6 @@ coordinator
 stitch
 together
 work
-many
 specialist
 large
 outcome
@@ -177,7 +166,6 @@ condition
 change
 crucially
 operate
-across
 fragmented
 application
 data
@@ -215,20 +203,15 @@ process
 automation
 rpa
 rule
--
 base
 system
 powerful
 repetitive
 rule
--
 base
 task
 handle
 back
--
-and
--
 forth
 interaction
 real
@@ -237,7 +220,6 @@ require
 every
 exception
 hard
--
 code
 automation
 break
@@ -290,8 +272,6 @@ hitachi
 focus
 provide
 digital
-ai
--
 drive
 solution
 client
@@ -493,9 +473,7 @@ file
 ticket
 correct
 service
--
 management
--
 software
 system
 wait
@@ -508,7 +486,6 @@ manage
 payroll
 agent
 orchestration
-across
 agent
 turn
 maze
@@ -525,8 +502,6 @@ digital
 ability
 access
 information
-across
-many
 division
 organization
 different
@@ -612,10 +587,8 @@ fast
 fix
 evolve
 quality
--
 assurance
 product
--
 feedback
 backbone
 anticipate
@@ -697,10 +670,8 @@ work
 seamlessly
 even
 delightfully
-across
 function
 require
-new
 kind
 thinking
 design
@@ -738,7 +709,6 @@ require
 name
 someone
 cross
--
 functional
 authority
 visibility
@@ -763,7 +733,6 @@ introduction
 early
 performance
 review
-new
 hire
 fully
 contribute
@@ -830,7 +799,6 @@ rfps
 manual
 repetitive
 time
--
 intensive
 process
 respond
@@ -869,9 +837,7 @@ replace
 agent
 draft
 complex
--plus
--
-page
+plus
 proposal
 minute
 human
@@ -894,8 +860,6 @@ ntt
 datum
 improve
 efficiency
-three
--
 fold
 unlock
 datum
@@ -903,7 +867,6 @@ silos
 clarify
 business
 logic
-many
 company
 assume
 require
@@ -912,7 +875,6 @@ centralized
 data
 agent
 operate
-across
 exist
 often
 siloe
@@ -939,14 +901,12 @@ reference
 datum
 set
 multi
--
 agent
 application
 work
 reliably
 scale
 organization
-must
 still
 invest
 make
@@ -969,9 +929,6 @@ exchange
 datum
 support
 day
--
-to
--
 day
 business
 process
@@ -989,7 +946,6 @@ element
 mean
 relationship
 usage
-across
 different
 system
 entire
@@ -1002,7 +958,6 @@ free
 constraint
 agentic
 offer
-new
 hope
 leader
 organization
@@ -1047,9 +1002,7 @@ desk
 agent
 know
 service
--
 management
--
 software
 api
 call
@@ -1085,7 +1038,6 @@ value
 take
 bigblue
 fast
--
 grow
 european
 logistic
@@ -1094,16 +1046,10 @@ handle
 million
 shipment
 direct
--
-to
--
 consumer
-e
--
 commerce
 customer
 order
--
 fulfillment
 platform
 use
@@ -1162,8 +1108,6 @@ refund
 credit
 escalate
 issue
-third
--
 party
 carrier
 question
@@ -1182,12 +1126,8 @@ bigblue
 map
 workflow
 logistics
-third
--
 party
 carrier
-e
--
 commerce
 retail
 brand
@@ -1196,14 +1136,12 @@ warehouse
 define
 customer
 journey
-across
 stakeholder
 translate
 complex
 logistic
 fulfillment
 multi
--
 carrier
 shipping
 issue
@@ -1261,7 +1199,6 @@ necessary
 knowledge
 valuable
 meta
--
 level
 information
 reside
@@ -1276,10 +1213,6 @@ approach
 datum
 accurate
 create
-up
--
-to
--
 date
 knowledge
 foundation
@@ -1290,7 +1223,6 @@ agentic
 strengthen
 information
 reliability
-across
 entire
 organization
 develop
@@ -1308,7 +1240,6 @@ effectively
 action
 strong
 change
--
 management
 strategy
 steward
@@ -1363,7 +1294,7 @@ process
 outset
 seek
 idea
--person
+person
 team
 potential
 agentic
@@ -1426,7 +1357,6 @@ trust
 steward
 responsibly
 governance
-must
 build
 design
 system
@@ -1477,7 +1407,6 @@ organization
 hierarchy
 perform
 real
--
 time
 monitor
 auditable
@@ -1557,7 +1486,6 @@ start
 suggest
 begin
 high
--
 friction
 customer
 journey
@@ -1576,16 +1504,14 @@ align
 team
 access
 cross
--
 functional
 datum
 deploy
 agent
 define
 desire
-outcomes
+outcome
 human
--
 agent
 system
 map
@@ -1626,8 +1552,7 @@ customer
 experience
 fast
 cycle
-times
-new
+time
 form
 value
 write

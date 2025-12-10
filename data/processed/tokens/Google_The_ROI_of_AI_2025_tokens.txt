@@ -32,7 +32,6 @@ conversation
 move
 potential
 performance
-many
 organization
 still
 debate
@@ -74,7 +73,6 @@ organization
 already
 deploy
 agent
-across
 enterprise
 among
 executive
@@ -148,7 +146,6 @@ model
 deploy
 sophisticated
 task
--
 specific
 agent
 automate
@@ -193,9 +190,6 @@ success
 successful
 organization
 experiment
-one
--
-off
 project
 strategically
 scale
@@ -203,7 +197,6 @@ agent
 deployment
 focus
 high
--
 value
 case
 build
@@ -227,7 +220,6 @@ workflow
 highly
 customize
 task
--
 specific
 automation
 fundamentally
@@ -313,7 +305,6 @@ model
 agent
 single
 system
-new
 business
 model
 company
@@ -345,7 +336,6 @@ deliver
 measurable
 business
 impact
-across
 industry
 rather
 simply
@@ -369,9 +359,6 @@ information
 resolve
 issue
 end
--
-to
--
 end
 sophistication
 vary
@@ -392,8 +379,7 @@ business
 impact
 resonate
 executive
-across
-industries
+industry
 fiona
 tan
 cto
@@ -402,7 +388,6 @@ explain
 research
 agent
 apply
-many
 case
 number
 business
@@ -429,7 +414,6 @@ marketing
 workflow
 develop
 single
--
 purpose
 agent
 specific
@@ -473,7 +457,6 @@ focus
 process
 autonomous
 decision
--
 making
 create
 immediate
@@ -505,9 +488,6 @@ agent
 systematically
 rather
 pursue
-one
--
-off
 experiment
 treat
 agent
@@ -519,8 +499,7 @@ project
 invest
 capability
 technology
-highest
--
+high
 perform
 organization
 treat
@@ -582,7 +561,6 @@ explain
 gen
 excels
 marketing
--
 relate
 task
 require
@@ -635,9 +613,6 @@ complex
 customer
 inquiry
 end
--
-to
--
 end
 organization
 achieve
@@ -730,7 +705,6 @@ forward
 clear
 begin
 high
--
 value
 case
 deliver
@@ -746,14 +720,11 @@ capability
 scale
 successful
 implementation
-across
 enterprise
 agentic
 era
-not
 come
 question
-not
 whether
 agent
 reshape
@@ -778,6 +749,5 @@ strategy
 implementation
 pattern
 business
-outcome
-across
+outcomes
 industry

@@ -1,6 +1,6 @@
 digital
 sme
-d4sme
+sme
 knowledge
 event
 september
@@ -13,18 +13,15 @@ mean
 sme
 issue
 usher
-new
 era
 autonomy
 decision
--
 make
 digital
 system
 implication
 small
 medium
--
 sized
 enterprise
 sme
@@ -42,7 +39,6 @@ public
 small
 business
 medium
--
 sized
 business
 overall
@@ -99,8 +95,6 @@ bring
 fresh
 opportunity
 challenge
-ai
--
 drive
 customer
 service
@@ -117,11 +111,9 @@ gain
 previously
 reach
 resource
--
 constrain
 firm
 raise
-new
 question
 accountability
 risk
@@ -194,8 +186,7 @@ personalise
 service
 expand
 innovation
-raise
-new
+raising
 challenge
 governance
 accountability
@@ -211,7 +202,6 @@ constraint
 integration
 challenge
 fast
--
 change
 technology
 cycle
@@ -257,8 +247,6 @@ standard
 avoid
 vendor
 lock
--
-in
 proportionate
 regulation
 regulatory
@@ -346,7 +334,7 @@ ministry
 enterprise
 make
 italy
-d4sme
+sme
 chair
 keynote
 professor
@@ -376,7 +364,7 @@ marco
 bianchini
 economist
 coordinator
-d4sme
+sme
 global
 initiative
 sme
@@ -430,15 +418,14 @@ division
 cfe
 oecd
 almudena
-martín
+mart
 castro
 digitalisation
 technology
 advisor
 office
 economic
-affairs
-g20
+affair
 prime
 minister
 office
@@ -466,7 +453,7 @@ marco
 bianchini
 economist
 coordinator
-d4sme
+sme
 global
 initiative
 sme
@@ -504,7 +491,7 @@ italy
 chair
 initiative
 partner
-d4sme
+sme
 initiative
 include
 amazon
@@ -518,15 +505,14 @@ highlight
 recent
 achievement
 initiative
-d4sme
+sme
 survey
 sme
 digitalisation
 competitiveness
-6th
 digital
 sme
-d4sme
+sme
 roundtable
 gather
 paris
@@ -547,7 +533,6 @@ adoption
 among
 sme
 accelerate
-across
 oecd
 adoption
 small
@@ -585,7 +570,7 @@ ministry
 enterprise
 make
 italy
-d4sme
+sme
 chair
 deputy
 minister
@@ -677,8 +662,6 @@ standard
 avoid
 vendor
 lock
--
-in
 balanced
 regulation
 cite
@@ -798,7 +781,6 @@ skill
 trust
 autonomous
 decision
--
 make
 remain
 central
@@ -813,7 +795,6 @@ sme
 capability
 rapid
 experimentation
-new
 form
 business
 intelligence
@@ -821,7 +802,6 @@ success
 depend
 build
 sme
--
 friendly
 tool
 interoperability
@@ -844,7 +824,6 @@ autonomous
 goal
 set
 decision
--
 make
 task
 execution
@@ -882,7 +861,6 @@ automate
 complex
 process
 supply
--
 chain
 management
 pricing
@@ -914,10 +892,7 @@ global
 market
 warn
 sme
-must
 disintermediate
-ai
--
 mediate
 marketplace
 discoverability
@@ -1020,9 +995,6 @@ movillo
 matta
 add
 peer
--
-to
--
 peer
 learning
 network
@@ -1052,7 +1024,7 @@ speaker
 emphasise
 sme
 face
-multi-
+multi
 layered
 trust
 challenge
@@ -1098,7 +1070,7 @@ keep
 michelle
 gill
 add
-fast-
+fast
 change
 compliance
 requirement
@@ -1108,11 +1080,10 @@ burden
 sme
 cite
 oecd
-d4sme
+sme
 survey
 evidence
 show
-many
 sme
 remain
 uncertain
@@ -1124,7 +1095,6 @@ movillo
 matta
 finally
 emphasise
-many
 firm
 challenge
 less
@@ -1136,7 +1106,6 @@ digital
 capability
 datum
 infrastructure
-new
 tool
 effectively
 policy
@@ -1162,13 +1131,10 @@ consumer
 protection
 law
 apply
-ai
--
 enable
 commerce
 rather
 layer
-new
 complexity
 josefina
 movillo
@@ -1194,7 +1160,6 @@ development
 cybersecurity
 support
 public
--
 private
 collaboration
 appropriately
@@ -1225,8 +1190,6 @@ essential
 avoid
 vendor
 lock
--
-in
 ecosystem
 support
 adoption
@@ -1247,8 +1210,6 @@ resource
 ensure
 sme
 access
-ai
--
 power
 discovery
 commerce
@@ -1316,7 +1277,6 @@ discussion
 highlight
 need
 cross
--
 sector
 collaboration
 adaptive
@@ -1343,11 +1303,11 @@ adoption
 require
 public
 investment
-private-
+private
 sector
 leadership
 almudena
-martín
+mart
 castro
 explain
 spain
@@ -1356,7 +1316,6 @@ project
 unit
 act
 connector
-across
 ministry
 industry
 association
@@ -1369,8 +1328,7 @@ economic
 impact
 consider
 trade
--
-offs
+off
 labour
 market
 disruption
@@ -1432,7 +1390,6 @@ build
 confidence
 need
 experiment
-new
 tool
 responsible
 innovation
@@ -1440,7 +1397,6 @@ safeguard
 speaker
 emphasise
 adoption
-must
 accompany
 safeguard
 hector
@@ -1470,8 +1426,6 @@ call
 external
 tool
 dual
--
-use
 feature
 carry
 risk
@@ -1493,14 +1447,12 @@ case
 team
 systematic
 red
--
 team
 post
--
 deployment
 monitoring
 almudena
-martín
+mart
 castro
 add
 large
@@ -1536,7 +1488,6 @@ effective
 adoption
 depend
 cooperation
-across
 wide
 ecosystem
 strengthen
@@ -1590,7 +1541,7 @@ goal
 scale
 gradually
 almudena
-martín
+mart
 castro
 highlight
 role
@@ -1600,8 +1551,6 @@ data
 association
 large
 firm
-co
--
 develop
 case
 share
@@ -1618,7 +1567,6 @@ hector
 rivoire
 add
 collaboration
-across
 industry
 academia
 policymaker
@@ -1647,7 +1595,7 @@ balance
 innovation
 oversight
 almudena
-martín
+mart
 castro
 identify
 adaptive
@@ -1689,7 +1637,6 @@ strong
 foundation
 structure
 disclosure
-across
 ecosystem
 call
 regulation
@@ -1697,7 +1644,6 @@ clarify
 role
 responsibility
 actor
-across
 ecosystem
 ensure
 share
@@ -1728,7 +1674,6 @@ alignment
 initiative
 oecd
 industry
--
 lead
 framework
 see
@@ -1736,7 +1681,6 @@ essential
 ensure
 agentic
 diffuse
-across
 border
 way
 foster
@@ -1754,7 +1698,7 @@ remark
 marco
 bianchini
 coordinator
-d4sme
+sme
 global
 initiative
 thank
@@ -1784,7 +1728,6 @@ collaborate
 emphasise
 need
 government
-across
 oecd
 beyond
 closely
@@ -1806,7 +1749,7 @@ webinar
 invite
 participant
 next
-d4sme
+sme
 knowledge
 event
 schedule
@@ -1843,8 +1786,6 @@ vicar
 group
 leader
 chamber
-re
--
 elect
 serve
 european
@@ -2006,7 +1947,6 @@ speak
 write
 advise
 real
--
 life
 deployment
 artificial
@@ -2081,8 +2021,7 @@ lab
 stanford
 institute
 human
--
-center
+centered
 hold
 degree
 cambridge
@@ -2226,7 +2165,6 @@ year
 build
 digital
 product
-across
 startup
 scaleup
 like
@@ -2253,7 +2191,8 @@ fintechile
 lawyer
 pontificia
 universidad
-católica
+cat
+lica
 chile
 master
 public
@@ -2301,7 +2240,7 @@ fintech
 hub
 region
 almudena
-martín
+mart
 castro
 hold
 degree
@@ -2329,7 +2268,6 @@ digital
 infrastructure
 various
 start
--
 up
 perform
 product
@@ -2368,7 +2306,7 @@ regularly
 participate
 event
 naukas
-t3chfest
+chfest
 codemotion
 receive
 tesla
@@ -2386,18 +2324,15 @@ dissemination
 book
 lira
 desafinada
-pitágoras
+pit
+gora
 pythagora
-out
--
-of-
 tune
 lyre
 currently
 vocal
 advisor
 directorate
--
 general
 strategic
 project
@@ -2405,8 +2340,7 @@ sectoral
 policy
 office
 economic
-affairs
-g20
+affair
 presidency
 government
 spain
@@ -2583,15 +2517,14 @@ queen
 mary
 university
 london
-d4sme
+sme
 initiative
 digital
 smes
 global
 initiative
-d4sme
+sme
 multi
--
 stakeholder
 dialogue
 engage
@@ -2620,7 +2553,7 @@ cooperation
 business
 oecd
 information
-d4sme
+sme
 initiative
 please
 visit
@@ -2629,7 +2562,7 @@ sme
 digitalisation
 competitiveness
 oecd
-d4sme
+sme
 survey
 digitalisation
 unlock
@@ -2638,7 +2571,6 @@ competitiveness
 help
 sme
 access
-new
 market
 improve
 efficiency
@@ -2652,7 +2584,6 @@ barrier
 face
 whether
 adopt
-new
 technology
 adapt
 business
@@ -2662,11 +2593,10 @@ informing
 effective
 policymake
 oecd
-d4sme
+sme
 survey
 shed
 light
-across
 ten
 oecd
 countries
@@ -2687,14 +2617,14 @@ digital
 platform
 partner
 oecd
-d4sme
+sme
 global
 initiative
 building
-insights
+insight
 edition
 oecd
-d4sme
+sme
 survey
 provide
 update
@@ -2735,7 +2665,7 @@ manage
 shock
 transition
 oecd
-d4sme
+sme
 survey
 although
 uptake
@@ -2785,20 +2715,17 @@ korea
 spain
 united
 states
-co
--
 operation
 digital
 platform
 partner
 oecd
-d4sme
+sme
 global
 initiative
 survey
 finding
 provide
-new
 insight
 smes
 digital
@@ -2808,12 +2735,10 @@ tool
 support
 navigate
 short
--
 term
 challenge
 enhance
 long
--
 term
 resilience
 survey
@@ -2845,7 +2770,6 @@ tremendous
 benefit
 small
 medium
--
 sized
 enterprise
 sme
@@ -2860,7 +2784,7 @@ digital
 uptake
 include
 context
-covid-
+covid
 crisis
 focus
 issue
@@ -2903,10 +2827,8 @@ division
 marco
 bianchini
 economist
-co
--
 ordinator
-d4sme
+sme
 initiative
 smes
 entrepreneurship
@@ -2949,7 +2871,6 @@ potential
 entrepreneur
 small
 medium
--
 sized
 enterprise
 promote

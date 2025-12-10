@@ -1,5 +1,4 @@
 firm
-must
 mitigate
 risk
 overcome
@@ -25,10 +24,8 @@ agentic
 show
 rapid
 adoption
-bank
+banking
 almost
-three
--
 quarter
 executive
 say
@@ -45,7 +42,6 @@ come
 ready
 fully
 autonomous
-new
 opportunity
 financial
 service
@@ -96,7 +92,6 @@ skill
 technologically
 possible
 large
--
 scale
 process
 poor
@@ -106,7 +101,6 @@ integration
 automation
 possible
 rule
--
 base
 big
 challenge
@@ -157,8 +151,8 @@ term
 banking
 sector
 survey
-bank
-exec-
+banking
+exec
 condition
 financial
 agreement
@@ -182,7 +176,6 @@ financial
 institution
 operate
 adapt
-new
 degree
 either
 exist
@@ -213,7 +206,6 @@ range
 different
 ability
 adopt
-new
 technical
 capability
 rearchitect
@@ -243,7 +235,6 @@ say
 buluswar
 people
 firm
-must
 include
 reduce
 cost
@@ -320,14 +311,11 @@ loan
 collection
 dispute
 almost
-three
--
 quarter
 transaction
 know
 customer
 anti
--
 money
 banking
 executive
@@ -359,8 +347,6 @@ bad
 actor
 use
 deepfake
-ai
--
 power
 method
 impersonate
@@ -380,10 +366,8 @@ review
 case
 free
 high
--
 risk
 high
--
 complexity
 work
 pilot
@@ -420,7 +404,6 @@ citi
 use
 yet
 high
--
 volume
 process
 handle
@@ -438,7 +421,6 @@ interaction
 per
 day
 back
--
 end
 process
 investigate
@@ -457,10 +439,8 @@ underwriting
 process
 onerous
 customer
-must
 provide
 front
--
 end
 process
 give
@@ -470,7 +450,6 @@ necessary
 information
 bank
 employee
-must
 parse
 stitch
 together
@@ -498,8 +477,7 @@ dramatically
 increase
 speed
 decision
--
-make
+making
 result
 positive
 client
@@ -512,14 +490,11 @@ opportunity
 relie
 organization
 adopt
-new
 technical
 training
 broad
 workforce
 savvier
-ai
--
 base
 system
 say
@@ -658,9 +633,9 @@ future
 opportunity
 bank
 provide
-micro-
+micro
 different
-come
+coming
 year
 personalization
 fraud
@@ -697,7 +672,7 @@ improve
 customer
 service
 strategic
-decision-
+decision
 augment
 user
 ability
@@ -831,7 +806,6 @@ cost
 increase
 efficiency
 create
-new
 revenue
 stream
 increase
@@ -888,7 +862,6 @@ challenge
 executive
 survey
 organization
-must
 overcome
 several
 critical
@@ -931,8 +904,6 @@ governance
 risk
 sufficiently
 overcome
-c
--
 suite
 skepticism
 compliance
@@ -1014,7 +985,6 @@ experience
 improve
 employee
 experience
-new
 revenue
 stream
 increase
@@ -1040,7 +1010,6 @@ quality
 say
 agentic
 helpful
-many
 integration
 big
 challenge
@@ -1087,7 +1056,6 @@ execute
 agentic
 response
 role
--
 base
 somewhat
 capable
@@ -1116,7 +1084,6 @@ rapid
 pace
 technology
 change
-new
 model
 platform
 release
@@ -1131,7 +1098,6 @@ executive
 face
 uncertainty
 future
--
 proof
 technology
 investment
@@ -1145,7 +1111,6 @@ digitally
 autonomous
 give
 agent
--
 base
 system
 ask
@@ -1177,7 +1142,6 @@ insight
 survey
 implement
 high
--
 stake
 world
 financial
@@ -1287,7 +1251,6 @@ median
 million
 value
 enterprise
--
 wide
 augmentative
 initiative
@@ -1392,7 +1355,6 @@ say
 priority
 area
 near
--
 term
 look
 say
@@ -1463,7 +1425,6 @@ say
 glasner
 process
 time
--
 lag
 say
 hbsc
@@ -1478,7 +1439,6 @@ model
 documentation
 process
 error
--
 prone
 risk
 classification
@@ -1581,10 +1541,10 @@ generate
 build
 agentic
 system
-top-
+top
 key
 challenge
-top-
+top
 key
 challenge
 confidence
@@ -1745,12 +1705,9 @@ design
 interaction
 interact
 people
-must
 adhere
 every
 year
-well
--
 define
 purpose
 clearly
@@ -1770,7 +1727,6 @@ case
 company
 insist
 real
--
 time
 metric
 allowable
@@ -1786,7 +1742,7 @@ unexpected
 use
 clearly
 explain
-decision-
+decision
 metric
 breach
 kill
@@ -1794,9 +1750,7 @@ switch
 data
 customer
 make
-data
--
-use
+datum
 process
 accord
 nimish
@@ -1921,8 +1875,7 @@ technology
 review
 world
 long
--
-run
+running
 technology
 magazine
 back
@@ -1989,7 +1942,6 @@ well
 work
 world
 create
-new
 value
 client
 people
@@ -2017,7 +1969,6 @@ today
 tomorrow
 team
 work
-across
 full
 spectrum
 service
@@ -2099,7 +2050,7 @@ limited
 right
 reserve
 eyg
--25gbl
+gbl
 none
 view
 party

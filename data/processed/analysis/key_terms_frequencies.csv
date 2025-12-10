@@ -1,43 +1,43 @@
 category,term,count
-Core Concepts,agent,1947
-Core Concepts,agentic,1322
-Core Concepts,autonomy,137
-Core Concepts,autonomous,164
-Core Concepts,intelligence,1259
-Implementation,system,1674
-Implementation,model,2052
-Implementation,architecture,106
-Implementation,framework,235
-Implementation,platform,322
-Business Value,productivity,225
-Business Value,efficiency,165
-Business Value,automation,221
-Business Value,optimization,51
-Business Value,roi,37
-Workforce,workforce,113
-Workforce,employee,145
-Workforce,worker,321
-Workforce,human,2193
-Workforce,job,333
-Workforce,skill,355
-Technology,data,392
-Technology,algorithm,158
-Technology,learning,260
-Technology,machine,532
-Technology,generative,355
-Governance,governance,366
-Governance,risk,686
-Governance,compliance,111
-Governance,regulation,146
-Governance,ethics,2
-Governance,trust,197
-Operations,workflow,323
+Core Concepts,agent,1885
+Core Concepts,agentic,1293
+Core Concepts,autonomy,104
+Core Concepts,autonomous,98
+Core Concepts,intelligence,108
+Implementation,system,1079
+Implementation,model,499
+Implementation,architecture,85
+Implementation,framework,133
+Implementation,platform,116
+Business Value,productivity,74
+Business Value,efficiency,98
+Business Value,automation,106
+Business Value,optimization,28
+Business Value,roi,36
+Workforce,workforce,58
+Workforce,employee,103
+Workforce,worker,58
+Workforce,human,508
+Workforce,job,71
+Workforce,skill,45
+Technology,data,122
+Technology,algorithm,16
+Technology,learning,54
+Technology,machine,73
+Technology,generative,137
+Governance,governance,216
+Governance,risk,375
+Governance,compliance,87
+Governance,regulation,26
+Governance,ethics,0
+Governance,trust,96
+Operations,workflow,293
 Operations,orchestration,39
-Operations,process,523
-Operations,task,923
-Operations,operation,215
-Assistance,copilot,33
-Assistance,assistant,72
-Assistance,support,379
-Assistance,augmentation,77
-Assistance,collaboration,127
+Operations,process,331
+Operations,task,420
+Operations,operation,130
+Assistance,copilot,19
+Assistance,assistant,51
+Assistance,support,194
+Assistance,augmentation,13
+Assistance,collaboration,49
