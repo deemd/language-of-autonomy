@@ -1,6 +1,5 @@
-import pdfplumber
-import fitz
 import json
+import pandas as pd
 import re
 import nltk
 from nltk.corpus import stopwords
