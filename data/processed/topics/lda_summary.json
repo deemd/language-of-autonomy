@@ -1,0 +1,17 @@
+{
+  "num_topics": 4,
+  "coherence_score": 0.4804554486326823,
+  "perplexity": -7.440394648119826,
+  "topic_labels": {
+    "0": "AI Foundations & Responsible Development",
+    "1": "Organizational Adoption & Workforce Transformation",
+    "2": "Technology Products & Workflows",
+    "3": "Business Strategy & Sales"
+  },
+  "global_proportions": {
+    "AI Foundations & Responsible Development": 0.38807118199765683,
+    "Organizational Adoption & Workforce Transformation": 0.13678623158484698,
+    "Technology Products & Workflows": 0.26704482454806566,
+    "Business Strategy & Sales": 0.208014321513474
+  }
+}
