@@ -189,7 +189,7 @@ class PDFTextExtractor:
             print(f"ERROR: No PDF files found in {self.raw_path}")
             return {}, {}
         
-        print(f"📚 {len(pdf_files)} PDF files found\n")
+        print(f"{len(pdf_files)} PDF files found\n")
         
         texts = {}
         metadata_dict = {}
@@ -239,8 +239,8 @@ class PDFTextExtractor:
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(metadata_dict, f, indent=2, ensure_ascii=False)
         
-        print(f"💾 Texts saved to: {self.processed_path / 'texts'}")
-        print(f"💾 Metadata saved to: {metadata_path}")
+        print(f"✔ Texts saved to: {self.processed_path / 'texts'}")
+        print(f"✔ Metadata saved to: {metadata_path}")
     
     def generate_extraction_report(self, texts: Dict[str, str], 
                                   metadata_dict: Dict[str, Dict]) -> str:
@@ -266,25 +266,19 @@ class PDFTextExtractor:
         
         report = f"""
 {'='*70}
-PDF EXTRACTION REPORT
-{'='*70}
+Extraction Report
 
-GEN STATS
-{'─'*70}
 Number of documents processed : {total_docs}
 Total words                   : {total_words:,}
 Total pages                   : {total_pages}
 Average words/document        : {total_words//total_docs if total_docs > 0 else 0:,}
 
-SOURCE TYPE DISTRIBUTION
-{'─'*70}
+Source Type Distribution :
 """
         for stype, count in sorted(source_types.items()):
             report += f"{stype:20} : {count} document(s)\n"
         
-        report += f"\n{'─'*70}\n"
-        report += "✔ DOCUMENT DETAILS\n"
-        report += f"{'─'*70}\n\n"
+        report += "\nDoc Details\n"
         
         for doc_id, meta in metadata_dict.items():
             report += f"• {meta['filename']}\n"

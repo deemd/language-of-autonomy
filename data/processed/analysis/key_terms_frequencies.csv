@@ -4,40 +4,65 @@ Core Concepts,agentic,1293
 Core Concepts,autonomy,104
 Core Concepts,autonomous,98
 Core Concepts,intelligence,108
+Core Concepts,ai,2
+Core Concepts,automation,106
+Core Concepts,automate,108
 Implementation,system,1090
 Implementation,model,502
 Implementation,architecture,81
 Implementation,framework,115
 Implementation,platform,112
+Implementation,deployment,144
+Implementation,integration,64
+Implementation,environment,172
+Implementation,infrastructure,72
 Business Value,productivity,74
 Business Value,efficiency,98
 Business Value,automation,106
 Business Value,optimization,28
 Business Value,roi,36
+Business Value,value,362
+Business Value,benefit,101
+Business Value,performance,138
+Business Value,cost,153
+Business Value,investment,104
 Workforce,workforce,58
 Workforce,employee,103
 Workforce,worker,58
+Workforce,work,256
 Workforce,human,500
 Workforce,job,71
 Workforce,skill,40
+Workforce,company,270
+Workforce,organization,346
+Workforce,industry,169
 Technology,data,602
 Technology,algorithm,9
 Technology,learning,18
 Technology,machine,73
 Technology,generative,137
+Technology,gen,52
+Technology,genai,37
 Governance,governance,216
 Governance,risk,375
 Governance,compliance,87
 Governance,regulation,26
 Governance,ethics,0
 Governance,trust,96
+Governance,policy,112
+Governance,standard,71
+Governance,adoption,220
+Governance,plan,159
 Operations,workflow,206
 Operations,orchestration,39
 Operations,process,343
 Operations,task,410
 Operations,operation,130
+Operations,service,322
 Assistance,copilot,19
 Assistance,assistant,51
 Assistance,support,193
 Assistance,augmentation,13
 Assistance,collaboration,49
+Assistance,tool,321
+Assistance,decision,212
