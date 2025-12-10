@@ -1,0 +1,53 @@
+
+### Mini-Taxonomy of Definitions of "Agentic AI"
+
+A hybrid qualitative-quantitative analysis was conducted to extract and 
+categorize explicit definitions of "agentic AI" across the corpus. The 
+methodology combined:
+
+1. **Semi-automatic extraction**: Pattern matching identified 750 
+   candidate definitions containing key terms ("agentic AI", "AI agents", 
+   "autonomous agents") and definitional markers ("is defined as", "refers to").
+
+2. **Manual validation**: Each candidate was manually reviewed, resulting in 
+   750 validated definitions spanning 19 
+   reports.
+
+3. **Conceptual categorization**: Definitions were grouped into four primary 
+   conceptual frames:
+
+
+**AI as Copilots/Assistants** (10.5%)
+AI agents that augment human work, provide suggestions, collaborate with users
+
+**AI as Autonomous Workers** (12.3%)
+AI agents that independently execute tasks with minimal human intervention
+
+**AI as Multi-Agent Ecosystems/Orchestrators** (8.7%)
+AI systems coordinating multiple agents, workflows, or complex processes
+
+**AI as Governance/Risk Challenges** (12.9%)
+AI agents framed through ethical, regulatory, or risk management lens
+
+#### Results and Interpretation
+
+Figure X presents the distribution of definitions across conceptual categories. 
+The dominant frame is **Other/Uncategorized** (55.6%), 
+suggesting that the prevailing discourse conceptualizes agentic AI as 
+definitions that don't fit main categories.
+
+**Institutional differences** (Figure Y - Heatmap) reveal:
+
+- **Academic**: 60% frame agentic AI as 'Other/Uncategorized'
+- **Consulting**: 59% frame agentic AI as 'Other/Uncategorized'
+- **Policy**: 48% frame agentic AI as 'Other/Uncategorized'
+- **Industry**: 56% frame agentic AI as 'Other/Uncategorized'
+
+**Key insight**: The taxonomy exposes conceptual fragmentation in how agentic 
+AI is defined. While some actors emphasize augmentation (copilots), others 
+stress full autonomy (autonomous workers) or systemic complexity (orchestrators). 
+This definitional ambiguity poses challenges for standardization and may lead 
+to misaligned adoption strategies across organizations.
+
+**Table 1** (see Appendix) provides the complete taxonomy with representative 
+definitions from each category and source type.

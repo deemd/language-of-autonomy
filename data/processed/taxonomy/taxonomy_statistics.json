@@ -1,52 +1,52 @@
 {
-  "total_definitions": 19,
+  "total_definitions": 750,
   "num_categories": 4,
   "category_distribution": {
-    "AI as Copilots/Assistants": 7,
-    "AI as Autonomous Workers": 3,
-    "AI as Multi-Agent Ecosystems/Orchestrators": 0,
-    "AI as Governance/Risk Challenges": 9,
-    "Other/Uncategorized": 0
+    "AI as Copilots/Assistants": 79,
+    "AI as Autonomous Workers": 92,
+    "AI as Multi-Agent Ecosystems/Orchestrators": 65,
+    "AI as Governance/Risk Challenges": 97,
+    "Other/Uncategorized": 417
   },
   "by_source_type": {
-    "Consulting": {
-      "total": 7,
-      "distribution": {
-        "AI as Copilots/Assistants": 3,
-        "AI as Autonomous Workers": 0,
-        "AI as Multi-Agent Ecosystems/Orchestrators": 0,
-        "AI as Governance/Risk Challenges": 4,
-        "Other/Uncategorized": 0
-      }
-    },
-    "Industry": {
-      "total": 5,
-      "distribution": {
-        "AI as Copilots/Assistants": 1,
-        "AI as Autonomous Workers": 3,
-        "AI as Multi-Agent Ecosystems/Orchestrators": 0,
-        "AI as Governance/Risk Challenges": 1,
-        "Other/Uncategorized": 0
-      }
-    },
     "Academic": {
-      "total": 4,
+      "total": 154,
       "distribution": {
-        "AI as Copilots/Assistants": 3,
-        "AI as Autonomous Workers": 0,
-        "AI as Multi-Agent Ecosystems/Orchestrators": 0,
-        "AI as Governance/Risk Challenges": 1,
-        "Other/Uncategorized": 0
+        "AI as Copilots/Assistants": 13,
+        "AI as Autonomous Workers": 18,
+        "AI as Multi-Agent Ecosystems/Orchestrators": 12,
+        "AI as Governance/Risk Challenges": 19,
+        "Other/Uncategorized": 92
+      }
+    },
+    "Consulting": {
+      "total": 197,
+      "distribution": {
+        "AI as Copilots/Assistants": 17,
+        "AI as Autonomous Workers": 32,
+        "AI as Multi-Agent Ecosystems/Orchestrators": 20,
+        "AI as Governance/Risk Challenges": 12,
+        "Other/Uncategorized": 116
       }
     },
     "Policy": {
-      "total": 3,
+      "total": 181,
       "distribution": {
-        "AI as Copilots/Assistants": 0,
-        "AI as Autonomous Workers": 0,
-        "AI as Multi-Agent Ecosystems/Orchestrators": 0,
-        "AI as Governance/Risk Challenges": 3,
-        "Other/Uncategorized": 0
+        "AI as Copilots/Assistants": 24,
+        "AI as Autonomous Workers": 18,
+        "AI as Multi-Agent Ecosystems/Orchestrators": 8,
+        "AI as Governance/Risk Challenges": 45,
+        "Other/Uncategorized": 86
+      }
+    },
+    "Industry": {
+      "total": 218,
+      "distribution": {
+        "AI as Copilots/Assistants": 25,
+        "AI as Autonomous Workers": 24,
+        "AI as Multi-Agent Ecosystems/Orchestrators": 25,
+        "AI as Governance/Risk Challenges": 21,
+        "Other/Uncategorized": 123
       }
     }
   }
