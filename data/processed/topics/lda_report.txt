@@ -1,0 +1,57 @@
+
+======================================================================
+TOPIC MODELING (LDA) REPORT
+======================================================================
+
+MODEL PARAMETERS
+──────────────────────────────────────────────────────────────────────
+Number of topics    : 4
+Coherence score     : 0.4805
+Perplexity          : -7.4404
+Number of documents : 20
+
+IDENTIFIED TOPICS
+──────────────────────────────────────────────────────────────────────
+
+Topic 0: AI Foundations & Responsible Development
+  Key words: evaluation, practice, foundation, autonomy, artificial, world, output, llm, reason, developer
+  Global proportion: 38.8%
+
+Topic 1: Organizational Adoption & Workforce Transformation
+  Key words: organization, leader, employee, say, adopt, investment, emerge, survey, extensive, respondent
+  Global proportion: 13.7%
+
+Topic 2: Technology Products & Workflows
+  Key words: workflow, software, organization, tech, leader, year, market, compute, product, saas
+  Global proportion: 26.7%
+
+Topic 3: Business Strategy & Sales
+  Key words: financial, partner, market, pool, workflow, sale, software, shape, monitor, enhance
+  Global proportion: 20.8%
+
+──────────────────────────────────────────────────────────────────────
+DISTRIBUTION PER SOURCE TYPE
+──────────────────────────────────────────────────────────────────────
+
+Academic:
+  • AI Foundations & Responsible Development : 8.5%
+  • Organizational Adoption & Workforce Transformation : 55.3%
+  • Technology Products & Workflows          : 19.6%
+  • Business Strategy & Sales                : 16.6%
+
+Consulting:
+  • AI Foundations & Responsible Development : 22.3%
+  • Technology Products & Workflows          : 45.4%
+  • Business Strategy & Sales                : 29.7%
+
+Industry:
+  • AI Foundations & Responsible Development : 42.9%
+  • Organizational Adoption & Workforce Transformation : 6.7%
+  • Technology Products & Workflows          : 23.2%
+  • Business Strategy & Sales                : 27.2%
+
+Policy:
+  • AI Foundations & Responsible Development : 93.0%
+  • Technology Products & Workflows          : 5.6%
+
+======================================================================

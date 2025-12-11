@@ -1,0 +1,77 @@
+
+======================================================================
+Extraction Report
+
+Number of documents processed : 20
+Total words                   : 136,472
+Total pages                   : 459
+Average words/document        : 6,823
+
+Source Type Distribution :
+Academic             : 4 document(s)
+Consulting           : 7 document(s)
+Industry             : 5 document(s)
+Policy               : 4 document(s)
+
+Doc Details
+• Bain_report_technology_report_2025.pdf
+  Words: 20,593 | Pages: 77 | Type: Consulting
+
+• BCG_AI_Agents_2025.pdf
+  Words: 1,601 | Pages: 9 | Type: Consulting
+
+• Deloitte_The_business_imperative_for_Agentic_AI_2025.pdf
+  Words: 3,966 | Pages: 26 | Type: Consulting
+
+• Google_Agentic_AI_TAM_Analysis_2025.pdf
+  Words: 22,140 | Pages: 72 | Type: Industry
+
+• Google_The_ROI_of_AI_2025.pdf
+  Words: 1,214 | Pages: 8 | Type: Industry
+
+• Harvard_Designing_a_Successful_Agentic_AI_System_2025.pdf
+  Words: 2,648 | Pages: 7 | Type: Academic
+
+• ITI_Understanding_Agentic_AI_Policy_Guide_2025.pdf
+  Words: 5,992 | Pages: 16 | Type: Policy
+
+• McKinsey_Empowering_advanced_industries_with_agentic_AI_2025.pdf
+  Words: 2,455 | Pages: 8 | Type: Consulting
+
+• McKinsey_The_agentic_organization_contours_of_the_next_paradigm_for_the_AI_era_2025.pdf
+  Words: 4,817 | Pages: 11 | Type: Consulting
+
+• McKinsey_What_is_an_AI_Agent_2025.pdf
+  Words: 3,390 | Pages: 11 | Type: Consulting
+
+• Microsoft_Agent_AI_Towards_a_Holistic_Intelligence_2025.pdf
+  Words: 6,706 | Pages: 21 | Type: Industry
+
+• MIT_Reimagining_the_future_of_banking_with_agentic_AI_2025.pdf
+  Words: 3,789 | Pages: 10 | Type: Academic
+
+• MIT_The_Emerging_Agentic_enterprise_2025.pdf
+  Words: 11,952 | Pages: 40 | Type: Academic
+
+• OECD_Explanatory_memorandum_on_the_updated_oecd_definition_of_an_AI_system_2024.pdf
+  Words: 3,597 | Pages: 11 | Type: Policy
+
+• OECD_From_prediction_to_autonomy_What_agentic_AI_means_for_SMEs_2025.pdf
+  Words: 4,825 | Pages: 13 | Type: Policy
+
+• OpenAI_A_practical_guide_to_building_agents_2025.pdf
+  Words: 4,183 | Pages: 34 | Type: Industry
+
+• OpenAI_Practices_for_Governing_Agentic_AI_Systems_2025.pdf
+  Words: 12,210 | Pages: 23 | Type: Industry
+
+• PwC_Agentic_AI_the_new_frontier_in_GenAI_2024.pdf
+  Words: 6,770 | Pages: 22 | Type: Consulting
+
+• Standford_Policy_brief_Simulating_human_behavior_with_AI_Agents_2025.pdf
+  Words: 2,320 | Pages: 6 | Type: Academic
+
+• WEF_AI_Agents_in_Action_Foundations_for_Evaluation_and_Governance_2025.pdf
+  Words: 11,304 | Pages: 34 | Type: Policy
+
+======================================================================
